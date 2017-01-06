@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<!DOCTYPE data SYSTEM "http://www.woltlab.com/DTDs/userCPMenu.dtd">
+<data>
+    <import>
+        <userprofilemenuitem name="wcf.user.profile.menu.link.profile.skills">
+            <link>index.php?page=Skills&amp;userID=%s</link>
+            <icon>icon/membersM.png</icon>
+            <showorder>2</showorder>
+        </userprofilemenuitem>
+    </import>
+</data>

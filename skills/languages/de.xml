@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE language SYSTEM "http://www.woltlab.com/DTDs/language.dtd">
+
+<language languagecode="de">
+	<category name="wcf.user.profile">	
+		<item name="wcf.user.profile.menu.link.profile.skills"><![CDATA[Skills]]></item>	
+		
+		<item name="wcf.user.profile.menu.link.profile.skills.tak_title"><![CDATA[Taktische Fähigkeiten]]></item>	
+		<item name="wcf.user.profile.menu.link.profile.skills.tak_fuehrung"><![CDATA[Führungsqualitäten]]></item>
+		<item name="wcf.user.profile.menu.link.profile.skills.tak_team"><![CDATA[Teamfähigkeit]]></item>
+		<item name="wcf.user.profile.menu.link.profile.skills.tak_strategie"><![CDATA[Strategie]]></item>
+		<item name="wcf.user.profile.menu.link.profile.skills.tak_angriff"><![CDATA[Angriff]]></item>
+		<item name="wcf.user.profile.menu.link.profile.skills.tak_verteidigung"><![CDATA[Verteidigung]]></item>
+		<item name="wcf.user.profile.menu.link.profile.skills.tak_planung"><![CDATA[Planung und Koordination]]></item>
+		
+		<item name="wcf.user.profile.menu.link.profile.skills.waffen_title"><![CDATA[Umgang mit Distanzwaffen]]></item>
+		<item name="wcf.user.profile.menu.link.profile.skills.waffen_handfeuer"><![CDATA[Handfeuerwaffen]]></item>
+		<item name="wcf.user.profile.menu.link.profile.skills.waffen_sturmgewehre"><![CDATA[Sturmgewehre]]></item>
+		<item name="wcf.user.profile.menu.link.profile.skills.waffen_fernkampf"><![CDATA[Andere Fernkampfwaffen]]></item>
+		<item name="wcf.user.profile.menu.link.profile.skills.waffen_ausserirdisch"><![CDATA[Außerirdische Technologie]]></item>
+		<item name="wcf.user.profile.menu.link.profile.skills.waffen_primitiv"><![CDATA[Primitive Waffen]]></item>
+		<item name="wcf.user.profile.menu.link.profile.skills.waffen_sprengstoff"><![CDATA[Umgang mit Sprengstoff]]></item>
+		
+		<item name="wcf.user.profile.menu.link.profile.skills.nah_title"><![CDATA[Nahkampf]]></item>
+		<item name="wcf.user.profile.menu.link.profile.skills.nah_waffenlos"><![CDATA[Waffenlos]]></item>
+		<item name="wcf.user.profile.menu.link.profile.skills.nah_klingen"><![CDATA[Waffen mit Klingen]]></item>
+		<item name="wcf.user.profile.menu.link.profile.skills.nah_stab"><![CDATA[Stabwaffen]]></item>
+		<item name="wcf.user.profile.menu.link.profile.skills.nah_andere"><![CDATA[Andere Waffen]]></item>
+		
+		<item name="wcf.user.profile.menu.link.profile.skills.flug_title"><![CDATA[Flugsteuerung]]></item>
+		<item name="wcf.user.profile.menu.link.profile.skills.flug_gross"><![CDATA[Große Raumschiffe]]></item>
+		<item name="wcf.user.profile.menu.link.profile.skills.flug_klein"><![CDATA[Kleine Fluggeräte]]></item>
+		<item name="wcf.user.profile.menu.link.profile.skills.flug_ausserirdisch"><![CDATA[Außerirdische Technologie]]></item>
+		<item name="wcf.user.profile.menu.link.profile.skills.flug_taktik"><![CDATA[Flugtaktiken]]></item>
+		
+		<item name="wcf.user.profile.menu.link.profile.skills.med_title"><![CDATA[Medizin]]></item>
+		<item name="wcf.user.profile.menu.link.profile.skills.med_allgemein"><![CDATA[Allgemeine Fertigkeiten]]></item>
+		<item name="wcf.user.profile.menu.link.profile.skills.med_erstehilfe"><![CDATA[Erste Hilfe]]></item>
+		<item name="wcf.user.profile.menu.link.profile.skills.med_chirurgie"><![CDATA[Chirurgie]]></item>
+		<item name="wcf.user.profile.menu.link.profile.skills.med_psycho"><![CDATA[Psychologie]]></item>
+		<item name="wcf.user.profile.menu.link.profile.skills.med_andere"><![CDATA[Andere Heilkünste]]></item>
+		
+		<item name="wcf.user.profile.menu.link.profile.skills.diplo_title"><![CDATA[Diplomatie]]></item>		
+		<item name="wcf.user.profile.menu.link.profile.skills.diplo_voelker"><![CDATA[Völkerkunde]]></item>
+		<item name="wcf.user.profile.menu.link.profile.skills.diplo_rhetorik"><![CDATA[Rhetorik]]></item>
+		<item name="wcf.user.profile.menu.link.profile.skills.diplo_verhandlung"><![CDATA[Verhandlungsgeschick]]></item>
+		<item name="wcf.user.profile.menu.link.profile.skills.diplo_menschenkenntnis"><![CDATA[Menschenkenntnis]]></item>
+		
+		<item name="wcf.user.profile.menu.link.profile.skills.wissen_title"><![CDATA[Wissenschaft]]></item>
+		<item name="wcf.user.profile.menu.link.profile.skills.wissen_physik"><![CDATA[Physik]]></item>	
+		<item name="wcf.user.profile.menu.link.profile.skills.wissen_bio"><![CDATA[Biologie]]></item>
+		<item name="wcf.user.profile.menu.link.profile.skills.wissen_chemie"><![CDATA[Chemie]]></item>
+		<item name="wcf.user.profile.menu.link.profile.skills.wissen_archaeologie"><![CDATA[Archäologie]]></item>
+		<item name="wcf.user.profile.menu.link.profile.skills.wissen_astronomie"><![CDATA[Astronomie]]></item>
+		<item name="wcf.user.profile.menu.link.profile.skills.wissen_geo"><![CDATA[Geologie]]></item>
+		<item name="wcf.user.profile.menu.link.profile.skills.wissen_technik"><![CDATA[Technik]]></item>	
+		<item name="wcf.user.profile.menu.link.profile.skills.wissen_informatik"><![CDATA[Informatik]]></item>
+		
+		<item name="wcf.user.profile.menu.link.profile.skills.rest"><![CDATA[Restliche Erfahrungspunkte]]></item>					
+	</category>
+
+	<category name="wcf.user.usercp">	
+		<item name="wcf.user.usercp.menu.link.profile.skills"><![CDATA[Skills]]></item>
+	</category>
+		
+</language>
